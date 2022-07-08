@@ -8,6 +8,7 @@ class Calculator:
         return self.a+self.b
    def subtraction(self)->float:
         return self. a- self.b
-
+   def  multiplication(self)->float:
+        return self. a*self.b
 
 
