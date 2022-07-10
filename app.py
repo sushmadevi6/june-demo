@@ -10,5 +10,6 @@ class Calculator:
         return self. a- self.b
    def  multiplication(self)->float:
         return self. a*self.b
-
+   def  devision(self)->float:
+        return self. a/self.b
 
